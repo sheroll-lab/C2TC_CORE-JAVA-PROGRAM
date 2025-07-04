@@ -1,4 +1,4 @@
-package Day8.abstraction;
+package C2TC_CORE_JAVA_PROGRAM.src.Day8.abstraction;
 
 public class Square extends Shape{
 	private float side;

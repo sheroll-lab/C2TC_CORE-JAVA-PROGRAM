@@ -1,4 +1,4 @@
-package Day6.staticblockmethod;
+package C2TC_CORE_JAVA_PROGRAM.src.Day6.staticblockmethod;
 
 //Program to demonstrate static method
 

@@ -1,4 +1,4 @@
-package Day4.FirstPackage;
+package C2TC_CORE_JAVA_PROGRAM.src.Day4.FirstPackage;
 
 public class Base {
     /*
@@ -20,11 +20,6 @@ public class Base {
     public void methodPublic() {
         System.out.println("Public access Base class");
         System.out.println("Public Variable : " + varPublic);
-    }
-
-    private void methodPrivate() {
-        System.out.println("Private access Base class");
-        System.out.println("Private Variable : " + varPrivate);
     }
 
     protected void methodProtected() {

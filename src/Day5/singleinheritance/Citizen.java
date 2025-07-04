@@ -1,4 +1,4 @@
-package Day5.singleinheritance;
+package C2TC_CORE_JAVA_PROGRAM.src.Day5.singleinheritance;
 
 //Program to demonstrate Single level inheritance with this and super keywords
 

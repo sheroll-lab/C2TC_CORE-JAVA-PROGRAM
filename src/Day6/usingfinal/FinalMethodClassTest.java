@@ -1,4 +1,4 @@
-package Day6.usingfinal;
+package C2TC_CORE_JAVA_PROGRAM.src.Day6.usingfinal;
 
 //Program to demonstrate final method 
 

@@ -1,4 +1,4 @@
-package Day4.FirstPackage;
+package C2TC_CORE_JAVA_PROGRAM.src.Day4.FirstPackage;
 
 import java.util.Scanner;
 

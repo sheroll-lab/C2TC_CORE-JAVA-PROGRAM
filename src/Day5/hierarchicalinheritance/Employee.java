@@ -1,4 +1,4 @@
-package Day5.hierarchicalinheritance;
+package C2TC_CORE_JAVA_PROGRAM.src.Day5.hierarchicalinheritance;
 
 //Program to demonstrate Hierarchical Inheritance - Employee Class
 public class Employee extends Person{

@@ -1,4 +1,4 @@
-package Day5.association.isa;
+package C2TC_CORE_JAVA_PROGRAM.src.Day5.association.isa;
 
 //Program to demonstrate usage of IS A Relationship 
 // Superclass

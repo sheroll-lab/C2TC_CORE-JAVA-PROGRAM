@@ -1,4 +1,4 @@
-package Day8.interfaces.extendinginterfaces;
+package C2TC_CORE_JAVA_PROGRAM.src.Day8.interfaces.extendinginterfaces;
 
 //child interface inherits from InterfaceOne//
 

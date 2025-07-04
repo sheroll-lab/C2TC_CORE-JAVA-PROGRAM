@@ -1,4 +1,4 @@
-package Day7.overloading.v1;
+package C2TC_CORE_JAVA_PROGRAM.src.Day7.overloading.v1;
 
 //Program to demonstrate method overloading
 //Program to define overloaded methods for Palindrome checking

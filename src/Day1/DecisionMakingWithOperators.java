@@ -1,4 +1,5 @@
-package Day1;
+package C2TC_CORE_JAVA_PROGRAM.src.Day1;
+
 
 public class DecisionMakingWithOperators {
 

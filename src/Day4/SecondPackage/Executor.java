@@ -1,5 +1,5 @@
-package Day4.SecondPackage;
-import Day4.FirstPackage.Base;
+package C2TC_CORE_JAVA_PROGRAM.src.Day4.SecondPackage;
+import C2TC_CORE_JAVA_PROGRAM.src.Day4.FirstPackage.Base;
 
 //Program to demonstrate accessing classes and methods of different package
 

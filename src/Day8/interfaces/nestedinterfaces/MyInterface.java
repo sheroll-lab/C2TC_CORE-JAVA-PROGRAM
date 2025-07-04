@@ -1,4 +1,4 @@
-package Day8.interfaces.nestedinterfaces;
+package C2TC_CORE_JAVA_PROGRAM.src.Day8.interfaces.nestedinterfaces;
 
 //Nested Interface
 

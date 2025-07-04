@@ -1,4 +1,4 @@
-package Day7.overriding.overriding.covariant;
+package C2TC_CORE_JAVA_PROGRAM.src.Day7.overriding.overriding.covariant;
 
 //Program to demonstrate covariant overriding
 

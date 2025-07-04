@@ -1,4 +1,4 @@
-package Day5.multilevelinheritance.texteditor;
+package C2TC_CORE_JAVA_PROGRAM.src.Day5.multilevelinheritance.texteditor;
 
 //Program to define class Notepad 
 

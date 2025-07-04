@@ -1,4 +1,4 @@
-package Day5.association.isa;
+package C2TC_CORE_JAVA_PROGRAM.src.Day5.association.isa;
 
 //Subclass inheriting from Employee
 public class Manager extends Employee {

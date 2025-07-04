@@ -1,4 +1,4 @@
-package Day5.association.hasa;
+package C2TC_CORE_JAVA_PROGRAM.src.Day5.association.hasa;
 
 // Program to demonstrate usage of the "HAS-A" relationship
 

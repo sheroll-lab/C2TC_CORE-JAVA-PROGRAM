@@ -1,4 +1,4 @@
-package Day7.overriding.overriding;
+package C2TC_CORE_JAVA_PROGRAM.src.Day7.overriding.overriding;
 
 //Program to demonstrate method overriding - Runtime Polymorphism
 

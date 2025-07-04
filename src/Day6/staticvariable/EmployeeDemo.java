@@ -1,4 +1,4 @@
-package Day6.staticvariable;
+package C2TC_CORE_JAVA_PROGRAM.src.Day6.staticvariable;
 
 //Program to demonstrate static variables
 

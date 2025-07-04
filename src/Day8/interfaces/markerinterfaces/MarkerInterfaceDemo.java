@@ -1,4 +1,4 @@
-package Day8.interfaces.markerinterfaces;
+package C2TC_CORE_JAVA_PROGRAM.src.Day8.interfaces.markerinterfaces;
 
 
 // Usage of the marker interface

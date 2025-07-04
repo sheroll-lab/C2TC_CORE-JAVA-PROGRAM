@@ -1,4 +1,4 @@
-package Day3.constructor;
+package C2TC_CORE_JAVA_PROGRAM.src.Day3.constructor;
 
 public class Customer {
     private String customerName;

@@ -1,4 +1,4 @@
-package Day3.ScannerDemo;
+package C2TC_CORE_JAVA_PROGRAM.src.Day3.ScannerDemo;
 
 
 class Person {

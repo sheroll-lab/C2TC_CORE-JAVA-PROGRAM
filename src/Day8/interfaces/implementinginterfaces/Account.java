@@ -1,4 +1,4 @@
-package Day8.interfaces.implementinginterfaces;
+package C2TC_CORE_JAVA_PROGRAM.src.Day8.interfaces.implementinginterfaces;
 //Account class
 
 public class Account {

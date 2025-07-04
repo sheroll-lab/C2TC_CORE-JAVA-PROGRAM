@@ -1,4 +1,4 @@
-package Day3.encapsulation;
+package C2TC_CORE_JAVA_PROGRAM.src.Day3.encapsulation;
 
 public class EncapsulationDemo {
     public static void main(String[] args) {

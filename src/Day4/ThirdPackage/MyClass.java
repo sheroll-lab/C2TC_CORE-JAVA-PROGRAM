@@ -1,4 +1,4 @@
-package Day4.ThirdPackage;
+package C2TC_CORE_JAVA_PROGRAM.src.Day4.ThirdPackage;
 
 //Program to demonstrate singleton class
 

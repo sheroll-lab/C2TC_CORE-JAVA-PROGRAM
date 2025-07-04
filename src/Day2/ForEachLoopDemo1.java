@@ -1,4 +1,4 @@
-package Day2;
+package C2TC_CORE_JAVA_PROGRAM.src.Day2;
 public class ForEachLoopDemo1 {
     public static void main(String[] args) {
         int a[] = {10,20,30,40,50};
